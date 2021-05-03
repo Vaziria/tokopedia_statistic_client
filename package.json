@@ -14,6 +14,7 @@
     "apollo-server-core": "^2.23.0",
     "apollo-server-micro": "^2.23.0",
     "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
     "evergreen-ui": "^5.1.2",
     "graphql": "^15.5.0",
     "graphql-tools": "^7.0.4",
